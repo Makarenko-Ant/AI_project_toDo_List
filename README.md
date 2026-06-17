@@ -29,7 +29,7 @@
 Клонувати репозиторій:
 
 ```bash
-git clone https://github.com/Makarenko-Ant/AI_project_toDo_List
+git clone https://github.com/Makarenko-Ant/AI_project_toDo_List/tree/main
 ```
 
 Перейти до папки проєкту:
